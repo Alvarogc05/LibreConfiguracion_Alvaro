@@ -1,0 +1,48 @@
+#cabecera {box-sizing: border-box; width: 100%; height: 200px; background: #107ACD; text-align:center; color: white;
+}
+
+#menu {box-sizing: border-box;float: left; width: 20%; height: 400px; background: #107ACD; color: white;
+}
+
+#lateral {box-sizing: border-box; width: 25%; height: 400px; background: #107ACD; float:left; color: white;
+}
+
+#contenido {box-sizing: border-box; float:left; width: 55%; height:400px; background: white; color: blue; background-image: url("imagen2.jpg");
+}
+
+#pie {box-sizing: border-box; border-style: solid; width: 100%; height: 100px; background: #107ACD; float: left; color: white;
+}
+
+#subtitulo {color: #2E00FF; text-align:center; font-family:cursive;	 }
+
+#titulo {color: #080088; text-align:center; text-decoration: underline; font-family: cursive;
+	
+}
+
+#texto {text-align: center; font-family: Arial, Helvetica, Verdana;
+	
+}
+
+#subrayado {text-decoration: underline; text-align: center;
+	
+}
+
+#frase {text-align: center; font-family: cursive
+	
+}
+
+#fantasy {text-align: center; font-family: monospace ;
+	
+}
+
+#fantasy2 {text-align: center; font-family: monospace ; text-decoration: underline; 
+	
+}
+
+#mi {text-align:center; font-family:"Courier New", Courier, monospace;
+	
+}
+
+#mi2 {text-align:center; font-family:"Courier New", Courier, monospace;
+	
+}
